@@ -1,15 +1,11 @@
 ---
 title: "About"
 ---
-Lorem ipsum dolor sit amet in ipsum nullam neque aliquam mauris iusto vestibulum tincidunt in convallis etiam sagittis vestibulum sed arcu id massa aliquet curabitur aenean commodo.
 
-Dui maecenas laboris. Nec quis nunc enim est eros vestibulum elit soluta. Aenean aenean ut. Urna sollicitudin volutpat. Aliquam dictum non. Faucibus nunc volutpat. Nunc in in. Nec ut lacus eu ut praesent vitae at aliquet lorem aliquam laoreet. Ultricies accumsan vitae aliquam quam in ac nec nunc. Faucibus eros sit. Imperdiet egestas quam. Facere in duis nisl ultricies fermentum. Quisque et dicta. Rhoncus molestie erat. A tempor rhoncus. Nulla ac vitae. Nec posuere habitant rutrum tincidunt eleifend vel non tincidunt.
+# About
 
-* Libero ac vulputate.
-* Feugiat rhoncus aliquam.
-* Felis suspendisse in molestie vel molestie pharetra ut nunc in cras esse.
-* Aliquet ut sociosqu at tortor hendrerit commodo morbi at vestibulum urna platea ante velit scelerisque.
-* Gravida sem in metus sapien vehicula tortor nulla nunc.
-* Habitant non sed.
+Hey there, welcome to the about page, where the awkwardness runs rife. 
 
-Donec sem sed. Congue erat porta iaculis volutpat accumsan ac cras id rhoncus ut dignissim accumsan purus wisi et vitae cubilia. Neque in in. In lacus dolor. Sit risus praesent.
+I'm Marty, I'm an engineer of many trades, believing in a philisophy of the more trades one knows, the more trades one can fuse into some absurd solution. 
+
+I mostly spend my days on DNS, but I also have a love for infrastructure & networking. You'll probably find me tinkering away on a Kubernetes stack, building networks or muttering *it's always DNS*

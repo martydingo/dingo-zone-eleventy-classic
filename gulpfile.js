@@ -8,7 +8,7 @@ const
 // Variables & parameters
 
 const
-  destPath = 'public',
+  destPath = '/www/dingo-zone',
 
   site = require('./site/_data/site.js'),
   theme = '_themes/' + (process.env.THEME || site.theme);

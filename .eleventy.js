@@ -125,7 +125,7 @@ module.exports = (eleventyConfig) => {
     dir: {
       input: './site',
       includes: `${theme}/layouts`,
-      output: './public'
+      output: '/www/dingo.zone'
     }
   }
 };

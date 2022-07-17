@@ -1,8 +1,8 @@
 module.exports = {
-  title: "ECBS",
-  tagline: "Eleventy Classic Blog Starter",
+  title: "dingo",
+  tagline: "technical musings of a dog.",
   // url: "https://eleventy-classic-blog-starter.netlify.app",
-  url: process.env.URL,
+  url: "https://dingo.zone",
   time: Date.now(),
   locale: "en-GB",
   theme: "hyde"

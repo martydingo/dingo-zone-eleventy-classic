@@ -1,6 +1,6 @@
 {
-  "name": "eleventy-classic-blog-starter",
-  "description": "A starter repository for a classic blog website using the Eleventy SSG",
+  "name": "dingo.zone",
+  "description": "The eleventy of choice for dingo.zone",
   "keywords": [
     "eleventy",
     "11ty",
@@ -10,14 +10,14 @@
     "highlight-js",
     "hyde-theme"
   ],
-  "version": "1.0.0-alpha",
-  "license": "MIT",
-  "author": "Ben Michaud <ben@tigersway.net>",
+  "version": "1.0.0",
+  "license": "CC-BY-ND",
+  "author": "Martin George <martin.george@dingo.management>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TigersWay/eleventy-classic-blog-starter.git"
+    "url": "git+https://github.com/martydingo/dingo.zone"
   },
-  "homepage": "https://github.com/TigersWay/eleventy-classic-blog-starter/#readme",
+  "homepage": "https://github.com/martydingo/dingo.zone",
   "scripts": {
     "live": "NODE_ENV=development gulp live",
     "build": "NODE_ENV=production gulp build",
