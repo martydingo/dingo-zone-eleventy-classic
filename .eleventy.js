@@ -1,3 +1,5 @@
+const pluginMermaid = require("@kevingimbel/eleventy-plugin-mermaid");
+
 const
   glob = require('fast-glob'),
   hljs = require('highlight.js'),
@@ -9,6 +11,9 @@ const
 
 
 module.exports = (eleventyConfig) => {
+
+  // Plugins 
+  eleventyConfig.addPlugin(pluginMermaid);
 
   // Markdown engine with its plugins
   const Markdown = require('markdown-it')({
@@ -41,6 +46,10 @@ module.exports = (eleventyConfig) => {
       allowedAttributes: ['id', 'class']
     });
   eleventyConfig.setLibrary('md', Markdown);
+  eleventyConfig.addFilter('md', (markdownString) =>
+    Markdown.render(markdownString)
+  );
+
 
 
   // Filters

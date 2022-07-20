@@ -24,6 +24,7 @@
     "debug": "cross-env DEBUG=Eleventy* eleventy --dryrun"
   },
   "dependencies": {
+    "@kevingimbel/eleventy-plugin-mermaid": "latest",
     "@11ty/eleventy": "^1.0.0",
     "@tigersway/gulp-responsive": "^1.5.0",
     "dayjs": "^1.10.7",
